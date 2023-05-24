@@ -1,0 +1,10 @@
+.thumbnail-img {
+  height: 16vh;
+  border-radius: 7px;
+  color: #ffffff;
+}
+.thumbnail-btn {
+  background-color: transparent;
+  border-width: 0;
+  cursor: pointer;
+}
