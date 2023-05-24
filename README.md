@@ -2,6 +2,8 @@ In this project, let's build a **Match Game** by applying the concepts we have l
 
 ### Refer to the video below:
 
+https://github.com/tejaswi-devalla/MatchGame/assets/115337640/4fe0f186-fe84-45b7-9f2c-6a10751dcddb
+
 <br/>
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
